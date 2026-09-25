@@ -1,0 +1,50 @@
+{
+  "registros": "21 editoriais +1oferta +3revisões +última consulta",
+  "verificacoes": [
+    "persistência",
+    "exportação e importação",
+    "rejeição de esquema e data inválidos sem perda",
+    "campos incompletos não contam",
+    "datas existentes preservadas",
+    "21 datas consecutivas e lacuna",
+    "endereço repetido",
+    "URL insegura não conta nem executa",
+    "texto importado não vira HTML",
+    "minutos inválidos preservam último valor",
+    "falha de armazenamento avisada"
+  ],
+  "layouts": [
+    {
+      "arquivo": "sprint.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "caderno.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "recurso.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "galeria.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "landing.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    }
+  ],
+  "errors": [],
+  "nota": "Dados fictícios usados apenas no teste, sem acessar redes sociais."
+}

@@ -1,0 +1,102 @@
+{
+  "ferramenta": "Codex image_gen nativo, sem seletor de versão",
+  "referencia": "Primeira imagem original; demais cenas geradas com referência; aula9 editada para mãos visíveis",
+  "imagens": [
+    {
+      "aula": 1,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-5bca1d5b-3d1d-416c-a7d1-c11e5d4c3534.png"
+    },
+    {
+      "aula": 2,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-c626d1f5-f1f0-417b-ae9a-981863e490b3.png"
+    },
+    {
+      "aula": 3,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-100677fe-a04f-4799-a278-80811b57b7f3.png"
+    },
+    {
+      "aula": 4,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-bd6df051-3d39-4925-84ce-3974b0845506.png"
+    },
+    {
+      "aula": 5,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-95f6d632-d7ae-4eb3-ad9e-9df8b502a49d.png"
+    },
+    {
+      "aula": 6,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-9f554f8b-5488-48cc-a629-a57182e00102.png"
+    },
+    {
+      "aula": 7,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-97f36292-a4af-4440-8280-28c002feaba6.png"
+    },
+    {
+      "aula": 8,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-31707da4-3fbb-47f8-b6bf-fd3ab0150a0d.png"
+    },
+    {
+      "aula": 9,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-964b1c71-f62e-4e03-afc3-b61dd75d23c8.png"
+    },
+    {
+      "aula": 10,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-c48273fd-7b54-42c0-9ddd-67b467c0afc2.png"
+    },
+    {
+      "aula": 11,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-b4ec163f-992e-4632-a7fd-4e14e5fcbf8e.png"
+    },
+    {
+      "aula": 12,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-beb2fc5b-bcb0-4a7a-afdc-cf599c282c7a.png"
+    },
+    {
+      "aula": 13,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-47b64605-f82f-4d27-be2e-0e25c43c56d4.png"
+    },
+    {
+      "aula": 14,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-f678b7fe-f4ac-4f0d-a28c-8199bd52d17f.png"
+    },
+    {
+      "aula": 15,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-5a1538bc-71a9-40cd-9725-b8e880d44c7b.png"
+    },
+    {
+      "aula": 16,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-c5fd8da6-cf5f-446f-90f9-8001f6b66b5b.png"
+    },
+    {
+      "aula": 17,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-6dab2ee5-caee-4821-aee0-3514fb1343f2.png"
+    },
+    {
+      "aula": 18,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-28b5db0e-822b-4c7e-8ecb-7be126e43708.png"
+    },
+    {
+      "aula": 19,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-4aeea3ff-4501-4ee0-ae8e-6a68640841ab.png"
+    },
+    {
+      "aula": 20,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-f3c83dac-8e28-4693-a68e-bcd8d4537cdf.png"
+    },
+    {
+      "aula": 21,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-c5c84a74-c020-4607-9a1c-d49d15cce542.png"
+    },
+    {
+      "aula": 22,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-c33aa478-3549-406a-9222-e3201b432120.png"
+    },
+    {
+      "aula": 23,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-b60f551c-b9aa-47bc-b0f1-5c233eb07f71.png"
+    },
+    {
+      "aula": 24,
+      "path": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-2402602f-7bdc-4f29-835f-e4efa8acc946.png"
+    }
+  ]
+}
