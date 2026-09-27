@@ -1,0 +1,59 @@
+[
+  {
+    "locale": "pt",
+    "lessons": 24,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [
+      {
+        "file": "sprint.html",
+        "persistence": true,
+        "exportImport": true,
+        "crossLanguageRejected": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "locale": "en",
+    "lessons": 24,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [
+      {
+        "file": "sprint.html",
+        "persistence": true,
+        "exportImport": true,
+        "crossLanguageRejected": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "locale": "es",
+    "lessons": 24,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [
+      {
+        "file": "sprint.html",
+        "persistence": true,
+        "exportImport": true,
+        "crossLanguageRejected": true
+      }
+    ],
+    "errors": []
+  }
+]

@@ -1,5 +1,3 @@
-# Estado
+# Estado atual
 
-Curso revisado para publicação. Auditoria24/24 com nota10, motor26/26, duas personas>=9 sem travas. Acompanhamento local testado: persistência, cópias, importação inválida sem perda, datas/lacunas/duplicação, campos pendentes, segurança de texto e aviso de falha de armazenamento.
-
-A produção deste material não executou contas ou21dias de posts. O aluno realiza as atividades. Estilo OSWorkv6.2 com motor oficial; imagens Codex nativas.
+Conteúdo 6.3.0, formato OSWork v6.2. Edições completas em PT/EN/ES. Tradução com GPT-6 Luna nativo Codex; sem API externa. Catálogos em i18n/, montagem offline em scripts/. Evidências em validacao-i18n.md.

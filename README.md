@@ -9,3 +9,21 @@ Lia Lume é uma personagem adulta fictícia. Sofia31 designer e Artur59 fotógra
 Acompanhamento local no navegador com exportação/importação JSON. Não publica, agenda posts, coleta contatos ou certifica resultados nas redes. Progresso de leitura não comprova exercícios. Conteúdo de leitura e prática, sem videoaulas gravadas.
 
 Reconstrução: python3 montar-apoio.py; python3 montar.py.
+
+## English / Español
+
+[English](https://inematds.github.io/curso-influenciador-ia/en/) · [Español](https://inematds.github.io/curso-influenciador-ia/es/)
+
+Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. Ilustrações originais compartilhadas; progresso e anotações separados por idioma.
+
+Após montar o português, reaplique os catálogos salvos:
+
+```sh
+python3 scripts/i18n_local.py build .
+python3 scripts/verify_i18n.py .
+node scripts/check_i18n_browser.cjs . /tmp/curso-i18n-checks
+```
+
+Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem não chama modelos nem redes. Mudanças na fonte PT exigem revisar os catálogos `i18n/`. O motor oficial `assets/curso.js` é preservado; a proteção de importação é gerada em `assets/curso-i18n.js` e nas edições traduzidas.
+
+Evidências em `context/validacao-i18n.md`. Revisões por agentes são simuladas, não testes com alunos reais.
